@@ -1,1 +1,1 @@
-# english_typing_game
+# English Typing Game
